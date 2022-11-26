@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ychan
- *
- */
-module amazon {
-}
